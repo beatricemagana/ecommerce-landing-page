@@ -11,7 +11,7 @@
 - CSS
 
 ### Author
-[Beatrice Magaña](https://www.linkedin.com/in/beatricemagana/)
+[Beatrice Magaña](https://www.linkedin.com/in/beatricemagana/ "LinkedIn")
 
 
 
